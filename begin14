@@ -1,0 +1,5 @@
+l=float(input())
+p=3.14
+r=l/(2*p)
+S=p*r**2
+print(S)
