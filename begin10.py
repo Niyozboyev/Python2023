@@ -1,8 +1,8 @@
 a=Float(input())
 b=Float(input())
-C=a**b
-D=a*b
-V=a/b
+C=a**2+b**2
+D=a**2*b**2
+V=a**2-b**2
 print(C)
 print(D)
 print(V)
