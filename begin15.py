@@ -1,4 +1,3 @@
-X1=float(input())
-X2=float(input())
-C=[X2-X1]
-print(C)
+a=float(input())
+a=abs(x2-x1)
+print(a)
