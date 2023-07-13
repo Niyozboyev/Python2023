@@ -1,3 +1,3 @@
 a=float(input())
-p=4*a
-print(p)
+P=4*a
+print(P)
